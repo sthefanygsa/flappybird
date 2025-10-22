@@ -94,7 +94,7 @@ function App() {
         <div
           style={{
             position: 'absolute',
-            backgroundColor: 'pink',
+            backgroundColor: 'purple',
             height: birdSize,
             width: birdSize,
             borderRadius: '50%',
