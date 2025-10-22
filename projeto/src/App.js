@@ -107,7 +107,7 @@ function App() {
         <div
           style={{
             position: 'absolute',
-            backgroundColor: 'yellow',
+            backgroundColor: 'purple',
             height: obstacleHeight,
             width: obstacleWidth,
             left: obstacleLeft,
@@ -119,7 +119,7 @@ function App() {
         <div
           style={{
             position: 'absolute',
-            backgroundColor: 'green',
+            backgroundColor: 'purple',
             height: gameHeight - obstacleHeight - gap,
             width: obstacleWidth,
             left: obstacleLeft,
