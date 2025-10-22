@@ -94,7 +94,7 @@ function App() {
         <div
           style={{
             position: 'absolute',
-            backgroundColor: 'purple',
+            backgroundColor: 'pink',
             height: birdSize,
             width: birdSize,
             borderRadius: '50%',
@@ -107,7 +107,7 @@ function App() {
         <div
           style={{
             position: 'absolute',
-            backgroundColor: 'green',
+            backgroundColor: 'yellow',
             height: obstacleHeight,
             width: obstacleWidth,
             left: obstacleLeft,
